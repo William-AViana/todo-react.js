@@ -17,4 +17,8 @@ Desenvolvimento de to-do list em ReactJs, com responsividade e marcar na lista c
 
 ## Projeto
 
-Você pode acessar o projeto através <a href="" target="_blank">desse link</a>
+Você pode acessar o projeto através <a href="https://to-do-react-js.herokuapp.com/" target="_blank">desse link</a>
+
+## Licença
+
+A licença desse projeto pode ser acessada <a href="https://github.com/William-AViana/todo-react.js/blob/main/LICENSE" target="_blank">aqui</a>
